@@ -4,7 +4,7 @@
   <groupId>com.abc</groupId>
   <artifactId>maven-proj</artifactId>
   <packaging>war</packaging>
-  <version>4.0-SNAPSH</version>
+  <version>5.0-RELEASE</version>
   <name>maven-proj Maven Webapp</name>
   <url>http://maven.apache.org</url>
   <dependencies>
